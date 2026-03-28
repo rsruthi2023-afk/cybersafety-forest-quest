@@ -1,0 +1,13 @@
+# Maven
+*.jar
+*.war
+*.ear
+target/
+
+# IDE
+.idea/
+*.iml
+
+# Build artifacts
+*.class
+*.log
