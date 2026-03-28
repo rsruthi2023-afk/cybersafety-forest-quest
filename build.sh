@@ -1,0 +1,1 @@
+#!/bin/bash\n\n# Build script for Maven project\n\necho "Starting Maven build..."\n\nmvn clean install\n\necho "Maven build completed."
